@@ -24,7 +24,12 @@ div {
   flex-direction: inherit;
   justify-content: space-evenly;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 100px;
   padding: 10px;
   display: flexbox;
+  background-color: rgb(186, 119, 173);
+}
+img {
+  height: 300px;
+  width: 300px;
 }
